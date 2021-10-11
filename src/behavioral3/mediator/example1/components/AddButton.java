@@ -3,6 +3,7 @@ package behavioral3.mediator.example1.components;
 import javax.swing.*;
 
 import behavioral3.mediator.example1.mediator.Mediator;
+import behavioral3.mediator.example1.mediator.Note;
 
 import java.awt.event.ActionEvent;
 
